@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on chitti.dev</title>
-    <link>http://example.org/projects/</link>
+    <link>https://harryharanb.github.io/projects/</link>
     <description>Recent content in Projects on chitti.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Feb 2019 19:57:34 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harryharanb.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chitti - DevOps &amp; DW/BI metadata Personal Assistant</title>
-      <link>http://example.org/projects/chitti-for-work/</link>
+      <link>https://harryharanb.github.io/projects/chitti-for-work/</link>
       <pubDate>Sun, 03 Feb 2019 19:57:34 -0500</pubDate>
       
-      <guid>http://example.org/projects/chitti-for-work/</guid>
+      <guid>https://harryharanb.github.io/projects/chitti-for-work/</guid>
       <description>ACCIO is a front end web application built to handle various project management tasks which was manually maintained in excel sheet.
 Manager and team leads maintains multiple version of excel sheet for the projects that team is currently working on. Lot of manual effort to syncup the statues and planning capacity every month.
  Technology Stack - MEAN stack web development - Mongodb, Express, AngularJs, NodeJs
@@ -25,10 +25,10 @@ Manager and team leads maintains multiple version of excel sheet for the project
     
     <item>
       <title>ACCIO - Project/Forecast Management tool</title>
-      <link>http://example.org/projects/accio-project-mgmt-project/</link>
+      <link>https://harryharanb.github.io/projects/accio-project-mgmt-project/</link>
       <pubDate>Sun, 03 Sep 2017 19:57:34 -0500</pubDate>
       
-      <guid>http://example.org/projects/accio-project-mgmt-project/</guid>
+      <guid>https://harryharanb.github.io/projects/accio-project-mgmt-project/</guid>
       <description>ACCIO is a front end web application built to handle various project management tasks which was manually maintained in excel sheet.
 Manager and team leads maintains multiple version of excel sheet for the projects that team is currently working on. Lot of manual effort to syncup the statues and planning capacity every month.
  Technology Stack - MEAN stack web development - Mongodb, Express, AngularJs, NodeJs
@@ -37,10 +37,10 @@ Manager and team leads maintains multiple version of excel sheet for the project
     
     <item>
       <title>Chitti - Alexa Skill</title>
-      <link>http://example.org/projects/chitti-alexa-skill-project/</link>
+      <link>https://harryharanb.github.io/projects/chitti-alexa-skill-project/</link>
       <pubDate>Mon, 22 Aug 2016 19:57:34 -0500</pubDate>
       
-      <guid>http://example.org/projects/chitti-alexa-skill-project/</guid>
+      <guid>https://harryharanb.github.io/projects/chitti-alexa-skill-project/</guid>
       <description>Chitti is an Alexa Skill built to handle all my media requests. This skill uses the media library thats build in mongodb, integrates with Plex and Kodi. Handles all audio/video playback requests in various speakers around the house.
  Built using - AWS, Alexa SDK, NodeJs, Mongodb, Kodi/Plex/Home Automation APIs
  Below are some of the Intents that Chitti can handle
@@ -49,30 +49,30 @@ Manager and team leads maintains multiple version of excel sheet for the project
     
     <item>
       <title>Home automation with Openhab</title>
-      <link>http://example.org/projects/home-automation-project/</link>
+      <link>https://harryharanb.github.io/projects/home-automation-project/</link>
       <pubDate>Thu, 21 Apr 2016 19:57:34 -0500</pubDate>
       
-      <guid>http://example.org/projects/home-automation-project/</guid>
+      <guid>https://harryharanb.github.io/projects/home-automation-project/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
  Fusce pharetra suscipit orci nec tempor.</description>
     </item>
     
     <item>
       <title>Media Library Management</title>
-      <link>http://example.org/projects/media-management-project/</link>
+      <link>https://harryharanb.github.io/projects/media-management-project/</link>
       <pubDate>Thu, 21 Apr 2016 19:57:34 -0500</pubDate>
       
-      <guid>http://example.org/projects/media-management-project/</guid>
+      <guid>https://harryharanb.github.io/projects/media-management-project/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
  Fusce pharetra suscipit orci nec tempor.</description>
     </item>
     
     <item>
       <title>Lazy to find remote and Mute the speakers</title>
-      <link>http://example.org/projects/lazy-to-fine-remote-and-mute-speakers/</link>
+      <link>https://harryharanb.github.io/projects/lazy-to-fine-remote-and-mute-speakers/</link>
       <pubDate>Tue, 14 Sep 2010 19:57:34 -0500</pubDate>
       
-      <guid>http://example.org/projects/lazy-to-fine-remote-and-mute-speakers/</guid>
+      <guid>https://harryharanb.github.io/projects/lazy-to-fine-remote-and-mute-speakers/</guid>
       <description>Hopefully you&amp;rsquo;ve read my About Me page. I was running an online radio station which used to play songs 24x7 and its hosted from my laptop connected to speakers in living room.
 Songs play all the time and I do remote work. Whenever I get an incoming call or I make an outgoing call (to join meeting) I had to find my remote and reduce the speaker volume or mute it.</description>
     </item>
